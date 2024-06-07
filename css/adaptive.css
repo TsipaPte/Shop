@@ -1,0 +1,25 @@
+@media (max-width: 750px) {
+    .categories-container {
+        display: block;
+    }
+}
+@media (max-width: 692px) {
+    .search-input {
+        width: 400px;
+    }
+}
+@media (max-width: 685px) {
+    .main-header form button {
+        margin-top: 10px;
+    }
+}
+@media (max-width: 560px) {
+    .search-input {
+        width: 300px;
+    }
+}
+@media (max-width: 465px) {
+    .search-input {
+        width: 200px;
+    }
+}
